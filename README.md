@@ -14,9 +14,9 @@ Task:
 Using a tool of your choice (Trello, GitHub Issues etc.) break the above business requirement down into
 a series of tasks for the development team to work through.
 Things to consider:
-• Is there any further information that you as a developer require from the business before
+- Is there any further information that you as a developer require from the business before
 starting the development work?
-• Think about potential errors that could occur when this new functionality is running in
+- Think about potential errors that could occur when this new functionality is running in
 production, how would you handle/mitigate these?
 
 No coding is required as part of this challenge!
